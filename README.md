@@ -9,13 +9,9 @@
 - Can Chen
 - Zihe Liu
 
-## Description
+## Instructions
 
-In this project we aim to discover and compare methods to solve systems of ordinary differential equations (ODEs). We have implemented
-
-## Environment
-
-In order to properly run the project code, the following libraries need to be installed under a Python3 environment:
+In order to properly run the project code, ensure that the following libraries are installed in python 3 environment:
 
 - NumPy
 - Pandas
