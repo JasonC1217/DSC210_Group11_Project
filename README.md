@@ -1,6 +1,42 @@
 # DSC210_Group11_Project
 Final Projectfor DSC210, Group 11:
 
+
+## Description
+
+
+## Installation
+
+To install this project, follow these steps:
+
+1. Clone the repository:
+    ```
+   git clone https://github.com/JasonC1217/DSC210_Group11_Project.git
+   ```
+3. Navigate to the project directory:
+   ```
+   cd DSC210_Group11_Project
+   ```
+4. 
+
+## Usage
+
+Here's how to get started with the project:
+
+1. 
+
+## Authors and Acknowledgment
+
+- Jason Chen
+- Can Chen
+- Zihe Liu
+
+## Project Status
+
+---
+
+## Experiment Results
+
 Above all, we find that although Eigenvalue method can provide analytical solutions for linear systems and effective for computing, it is still limited to more complicated nonlinear systems without known analytical solutions. When ample datas are available, Recurrent Neural Network(RNN) method can perform well, especially for nonlinear ODEs systems and some systems where data-driven modeling is crucial, making it suitable for prediction. However, this method relies heavily on the quality and quantity of available data and requires careful tuning,  lacking clear interpretability compared with Eigenvalue method.
 This project covered the problem of ODEs solving applied in biological system .
 Conclusions:
