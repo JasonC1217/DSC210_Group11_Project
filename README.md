@@ -1,5 +1,7 @@
 # DSC210_Group11_Project
-Final Projectfor DSC210, Group 11:
+## Final Project for DSC210, Group 11:
+
+# How to Solve System of ODEs
 
 ## Authors
 
@@ -8,6 +10,8 @@ Final Projectfor DSC210, Group 11:
 - Zihe Liu
 
 ## Description
+
+In this project we aim to discover and compare methods to solve systems of ordinary differential equations (ODEs). We have implemented
 
 ## Environment
 
