@@ -47,10 +47,10 @@ Generated population dynamics when there are inter-species interactions:
 ![plot](/Project_code/Generated_data.jpeg)
 
 RNN learning curve:
-![plot](/Project_code/Learning Curve.jpeg)
+![plot](/Project_code/Learning_Curve.jpeg)
 
 Predicted population dynamics by RNN in comparison with the actual population dynamics:
-![plot](/Project_code/RNN Simulation Results.jpeg)
+![plot](/Project_code/RNN_Simulation_Results.jpeg)
 
 ## Conclusions:
 We implemented Eigenvalue method as a way to solve this problem supposing the relationship between to species is independent. and then implement Recurrent Neural Network(RNN) method to solve it assuming they have a mutual influence.
