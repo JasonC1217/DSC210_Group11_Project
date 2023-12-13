@@ -37,7 +37,20 @@ Here's how to get started with the project:
 Above all, we find that although Eigenvalue method can provide analytical solutions for linear systems and effective for computing, it is still limited to more complicated nonlinear systems without known analytical solutions. When ample datas are available, Recurrent Neural Network(RNN) method can perform well, especially for nonlinear ODEs systems and some systems where data-driven modeling is crucial, making it suitable for prediction. However, this method relies heavily on the quality and quantity of available data and requires careful tuning,  lacking clear interpretability compared with Eigenvalue method.
 This project covered the problem of ODEs solving applied in biological system .
 
-![plot](/Project_code/Generated_data_no_relationship.png)
+Generated population dynamics when there are no interactions between species:
+![plot](/Project_code/Generated_data_no_relationship.jpeg)
+
+Predicted population dynamics using eigenvalue method:
+![plot](/Project_code/Linear_model_No_Relationship.jpeg)
+
+Generated population dynamics when there are inter-species interactions:
+![plot](/Project_code/Generated_data.jpeg)
+
+RNN learning curve:
+![plot](/Project_code/Learning Curve.jpeg)
+
+Predicted population dynamics by RNN in comparison with the actual population dynamics:
+![plot](/Project_code/RNN Simulation Results.jpeg)
 
 ## Conclusions:
 We implemented Eigenvalue method as a way to solve this problem supposing the relationship between to species is independent. and then implement Recurrent Neural Network(RNN) method to solve it assuming they have a mutual influence.
