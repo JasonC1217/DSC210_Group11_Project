@@ -1,37 +1,37 @@
 # DSC210_Group11_Project
 Final Projectfor DSC210, Group 11:
 
-
-## Description
-
-
-## Installation
-
-To install this project, follow these steps:
-
-1. Clone the repository:
-    ```
-   git clone https://github.com/JasonC1217/DSC210_Group11_Project.git
-   ```
-3. Navigate to the project directory:
-   ```
-   cd DSC210_Group11_Project
-   ```
-4. 
-
-## Usage
-
-Here's how to get started with the project:
-
-1. 
-
-## Authors and Acknowledgment
+## Authors
 
 - Jason Chen
 - Can Chen
 - Zihe Liu
 
-## Project Status
+## Description
+
+## Environment
+
+In order to properly run the project code, the following libraries need to be installed under a Python3 environment:
+
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Torch
+- Scikit-learn
+
+## Usage
+
+Here's how to get started with the project:
+
+1. Clone the repository to local folder using:
+   ```
+   git clone https://github.com/JasonC1217/DSC210_Group11_Project.git
+   
+   ```
+2. Open the folder ```DSC210_Group11_Project```, go to the subfolder ```Project_code```.
+
+3. Open the notebook ```Project_Notebook.ipynb```, run all the cells.
 
 ## Experiment Results
 
